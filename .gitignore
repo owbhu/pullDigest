@@ -1,0 +1,16 @@
+data/raw/
+data/prs.db
+runs/
+logs/
+*.ckpt
+*.pt
+*.pth
+.env
+.venv/
+__pycache__/
+*.py[cod]
+pip-log.txt
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
